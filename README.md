@@ -1,7 +1,7 @@
 ## arceus-0493 Mini Project
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+[SEE DEMO](https://arceus-0493.vercel.app/)
+![Vercel](https://vercelbadge.vercel.app/api/ichadw/arceus-0493)
 
 ## Requirements (recommended)
 - node `^16.x.x`
