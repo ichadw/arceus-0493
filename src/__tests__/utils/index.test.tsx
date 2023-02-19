@@ -45,6 +45,7 @@ describe('utils/index', () => {
   });
 
   test('pokemonExist', () => {
+    localStorageMock(LS_POKE_KEY, null);
     expect(pokemonExist('1')).toStrictEqual(false);
     localStorageMock(LS_POKE_KEY, myPokemonMock);
     expect(pokemonExist('63')).toStrictEqual(true);
