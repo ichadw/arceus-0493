@@ -42,5 +42,6 @@ export const getMyPokemonTotal = () => {
 
 export const pokemonExist = (id: string) => {
   const myPokemonList = getLocalStorage(LS_POKE_KEY, null);
-  return !!myPokemonList[id]
-}
+  if (myPokemonList) return !!myPokemonList[id];
+  return false;
+};
