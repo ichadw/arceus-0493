@@ -1,7 +1,9 @@
 ## arceus-0493 Mini Project
 
 [SEE DEMO](https://arceus-0493.vercel.app/)
+
 ![Vercel](https://vercelbadge.vercel.app/api/ichadw/arceus-0493)
+[![codecov](https://codecov.io/gh/ichadw/arceus-0493/branch/main/graph/badge.svg?token=SFVOMDG8SU)](https://codecov.io/gh/ichadw/arceus-0493)
 
 ## Requirements (recommended)
 - node `^16.x.x`
