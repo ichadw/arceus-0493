@@ -36,7 +36,7 @@ src/                                # Main Source Directory
 
 ## Supported Library
 - Design Library: [antd](https://ant.design/)
-- HTTP Requests: [axios](https://github.com/axios/axios/)
+- HTTP Request: [cross-fetch](https://www.npmjs.com/package/cross-fetch/)
 - Unit Testing: [jest](https://jestjs.io/)
 
 ## Learn More
